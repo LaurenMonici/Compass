@@ -1,1 +1,2 @@
-esse projeto te ensina a usar o git
+dia 1 
+testando github, commits e alterações
