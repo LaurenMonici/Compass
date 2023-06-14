@@ -1,5 +1,12 @@
-Sprint 1                                                                          
-Dia 1 - Sobre método SCRUM
+Sprint 1                                                                        
+Dia 1 - Utilização do git
+->Instalação do git
+->Criação do readme.md
+->Comandos do git (init, add, commit, etc)
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+Dia 2 - Sobre método SCRUM
 ->Oficializado na década de 90
 ->Responde bem á mudanças
 ->Indivíduo e interação
@@ -26,7 +33,7 @@ Pq projetos falham?
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-Dia 2 - Sobre teste e QA
+Dia 3 - Sobre teste e QA
 ->
 ->
 ->
