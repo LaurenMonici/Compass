@@ -1,2 +1,2 @@
-dia 1 
-testando github, commits e alterações
+sprint 1
+dia 1 - sobre método SCRUM
