@@ -1,6 +1,6 @@
 ## **Sprint 1**                                                                        
 **Dia 1 - Utilização do git*
-###[->Instalação do git]
+###[Instalação do git]
 ->Criação do readme.md
 ->Comandos do git (init, add, commit, etc)
 
