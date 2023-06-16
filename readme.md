@@ -7,6 +7,7 @@
 _____________________________________________________________________________________________________________________________________________________________________
 
 Dia 2 - Sobre método SCRUM
+### [SCRUM](https://github.com/LaurenMonici/GitSprints/issues/1)
 ->Oficializado na década de 90
 ->Responde bem á mudanças
 ->Indivíduo e interação
