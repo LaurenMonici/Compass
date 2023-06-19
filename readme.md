@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-Dia 3 - Sobre teste e QA
+**Dia 3 - Sobre teste e QA**
  - A area de tecnologia cresce mais a cada ano.
  - é uma área que gera pressão nos trabalhadores
  - exige estudo constante por conta das inúmeras mudanças, evoluçoes e tipos de tecnologia
@@ -21,6 +21,7 @@ Dia 3 - Sobre teste e QA
  - idade não é relevante, o interesse está no conhecimento e capacidade relacionado á area
  - inúmeros cargos com niveis e/ou especializaçoes diferentes
  - todos devem relizar testesm, já que cada um tem um ponto de vistas diferente
+ 
  perfil profissional de Qa
  soft skill
  habilidade pessoal
