@@ -70,4 +70,14 @@ ________________________________________________________________________________
 
 ### [Teste de integração](https://github.com/LaurenMonici/GitSprints/issues/13)
 
-### [Teste de ponta-a-ponta]()
+### [Teste de ponta-a-ponta](https://github.com/LaurenMonici/GitSprints/issues/14)
+
+
+
+**Webinar - Generative AI**
+ - Vantagens e desvantagens do Uso do chat GPT
+ - Problemas apresentados durante a utilização da ferramenta
+ - Como utilizar o chat de uma maneira mais útil
+ - recomendação sobre organização de documentação pelo Chat GPT
+ - experiências de estudantes e trabalhadores da área com a ferramenta
+ - menções a nova ferramenta do google, que se assemelha ao funcionamento do chat.
