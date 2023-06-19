@@ -18,7 +18,7 @@ ________________________________________________________________________________
  **perfil profissional de Qa**
  ### [Soft Skills](https://github.com/LaurenMonici/GitSprints/issues/3)
 
- ### [Hard skills]()
+ ### [Hard skills](https://github.com/LaurenMonici/GitSprints/issues/4)
 
 
 tecnicas de teste
