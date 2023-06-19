@@ -42,32 +42,8 @@ a história dos testes
  - bugs afetam meio ambiente, como não desligar luzes e motores, ou gastarem mais recursos durante o trabalho
 
 ### [os 7 fundamentos do software (istqb)]() 
--teste demonstra a presença de defeitos, mas nunca a ausência
-mesmo que o defeito não apareça, não significa que não exista, não é uma prova que o código seja perfeito
-
-teste exaustivo não é possivel
-testar tudo não é viaivel
-testes são realizados de acordo com risco e prioridade
-
-teste antecipado
-iniciar preferencialmente os teste logo ao inicio
-focar em objetivos definidos
-regra 10 de myers - o erro é multiplicado por 10 a cada etapa passada. quanto mais cedo o defeito for achado, mais barato é sua identificação e correção
-
-agrupamento de defeitos
-pequenos módulos podem ter muitos defeitos, divididos de forma irregular, um modulo com 2 e outro com 20
 
 
-paradoxo do pesticida
-teste já realizado diversas vezes não acha mais defeitos. por isso tem que ser atualizado, então devem ser alterados para trabalhar com áreas diferentes do software e encontrar outros erros.
-
-teste depende de contexto
-sem risco, sem testes
-o software de piloto automático temk muito mais testes que um softwarede informação de um quiosque em um shopping
-
-
-a ilusão da ausencia de erros
-um software sem defeitos não ajuda se não é o pedido/expectativa/necessidade do usuario
 
 divergencia entre teste e QA
 teste melhora o produto
