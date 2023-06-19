@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-**Dia 3, 4 e 5 - Curso sobre teste e QA**
+**Dia 3 e 4 - Curso sobre teste e QA**
 ### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
@@ -45,23 +45,9 @@ ________________________________________________________________________________
  - Ao rodar o codigo com defeito, gera uma falha
  - Falhas causam insatisfação com a qualidade.
 
-### [Padrão ISO 25010]()
+### [Padrão ISO 25010](https://github.com/LaurenMonici/GitSprints/issues/8)
 
-
-teste manual x teste automatzado
-existem demandas apenas para o teste manual, mas também existm para automçaõ, em alguins caso o manual não é uma possibilidade, e outros em que a automação é um trablho desnecessário
-
-teste tradiciona x teste ágil
-apenas via os erros em momentos separados
-agil - fazer parte do processo e saber sobre antes mesmo de realmente testar
-
-como gerar qualidade no produto
-requisito
-confiança
-identificação de defieto
-tomada de decisão
-redução de risco
-conformidade
+### [Testes e qualidade]()
 
 dia 5 - 
 teste dinâmico e teste estático
