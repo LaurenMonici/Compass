@@ -58,10 +58,16 @@ ________________________________________________________________________________
 
 **DIA 6 - Fundamentos do teste - Backend**
 
+**A pirâmide de testes**
+
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*S0yR438zKtJtEEBldSviFA.png)
+
+ - A base da pirâmide é a mais fácil e rápida, o topo é o oposto
+ - A pirâmide também indica a importância de que o código passe, em um quase totalidade, pelo teste de unidade
+ - Testes E2E devem ser testados menos vezes por conta da demora
 
 ### [Teste de unidade](https://github.com/LaurenMonici/GitSprints/issues/12)
 
-### [Teste de integração]()
+### [Teste de integração](https://github.com/LaurenMonici/GitSprints/issues/13)
 
 ### [Teste de ponta-a-ponta]()
