@@ -1,12 +1,12 @@
 ## **Sprint 1**                                                                        
-**Dia 1 - Utilização do git*
-###[Instalação do git]
+**Dia 1 - Utilização do git**
+Instalação do git
 ->Criação do readme.md
 ->Comandos do git (init, add, commit, etc)
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-Dia 2 - Sobre método SCRUM
+**Dia 2 - Sobre método SCRUM**
 ### [SCRUM](https://github.com/LaurenMonici/GitSprints/issues/1)
 ->Oficializado na década de 90
 ->Responde bem á mudanças
