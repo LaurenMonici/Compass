@@ -16,14 +16,10 @@ ________________________________________________________________________________
 ### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
- ### [Soft Skills]()
+ ### [Soft Skills](https://github.com/LaurenMonici/GitSprints/issues/3)
 
+ ### [Hard skills]()
 
-Hard skills
- - é o basico para se ter um emprego. conhecimento de SO, pacote office, interpretação, teste manual e automatizado.
- - info - como reproduzir o defeito e como encontrar o defeito novamente
- - acompanhar defeitos - teste de confirmação, confirma-se se o bug acabou
- - teste de regressão - testar desde o inicio
 
 tecnicas de teste
 quantos testes tem?
@@ -45,7 +41,7 @@ a história dos testes
  - bugs afetam a segurança do governp
  - bugs afetam meio ambiente, como não desligar luzes e motores, ou gastarem mais recursos durante o trabalho
 
-os 7 fundamentos do software istqb 
+### [os 7 fundamentos do software (istqb)]() 
 -teste demonstra a presença de defeitos, mas nunca a ausência
 mesmo que o defeito não apareça, não significa que não exista, não é uma prova que o código seja perfeito
 
