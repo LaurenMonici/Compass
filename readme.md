@@ -28,73 +28,25 @@ ________________________________________________________________________________
 ### [Débito técnico](https://github.com/LaurenMonici/GitSprints/issues/6)
 
 
-### [A história dos testes]()
+### [A história dos testes](https://github.com/LaurenMonici/GitSprints/issues/7)
 
 
 ### [Os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) 
 
 
 
-divergencia entre teste e QA
-teste melhora o produto
-QA melhora o processso
+**Divergência entre teste e QA**
+ - Teste melhora o produto
+ - QA melhora o processso
 
-erro, defeito e falha
-erro é o engano
-defeiros derivam do erro, é o encontrar o erro do outro. é preferivel chamar de ocorrencia
-ao rodar o codigo com defeito, gera uma falha
-falhas causam insatisfação com a qualidade.
+**Erro, defeito e falha**
+ - Erro é o engano
+ - Defeiros derivam do erro, é o encontrar o erro do outro. é preferivel chamar de ocorrencia
+ - Ao rodar o codigo com defeito, gera uma falha
+ - Falhas causam insatisfação com a qualidade.
 
-tipos de teste - ISO 25010
-è padrão, um exemplo de como deveria ser.
-muitos pré requisitos necessarios para um padrão, exige qualidade
-se divide em 8 caracteristicas
+### [Padrão ISO 25010]()
 
-AF - adequação funcional
-é o cumpriomentos das funcionalidades
-é o unico teste de negócio/funcional
-completo - tudo deve ser com as escolhas certas
-correçaõ -  os resultados devem estar corretos.
-apropriado - resultado correto, mas apresentado em uma forma "errada"
-
-usabilidade
-
-
-compatibilidade
-coexistencia - não atrapalhar outros programas, mas não deixar ser atrapalhado
-interoperabilidade - facilidade de comunicação
-confiança
-maturidade - perceber e prevenir a falha antes de acontecer
-disponibilidade - manter-se a disposição dos usuarios
-o resultado passado não garante o futuro
-tolerancia a falha - perceber e compensar a falha em tempo real
-
-recuperabilidade
-depois da falha deve recuperse dela
-eficiência
-comportamento em relação ao tempo,a cada segundo passado se perde grande quantidade de acessos
-utilização de recursos - é melhor um software que exija melhoria do que um que não use os recusros disponiveis para ele.
-capacidade - atender transações de ususarios
-
-manutenção
-ser organizado em módulos facilita mudanças
-reusabilidade - estrutura básica que possa ser utilizada em diversas outras partes, para diversas pessosa
-analisabilidade - facilidade para entender
-testabilidade - facilidade para que qualquer profissional o faça
-moificabilidade - facilidade de mudar um elemento e o resto do codigo se mante o mesmo em funcionamento
-
-portabilidade
-capacidade de funcionar em diverso sistemas operacionais
-adaptabilidade - facilidade pra se adequar a qualquer formato
-instalabilidade - facilidade em ligar e desligar recursos
-substituibilidade - facilidade de analisar e optar por uma evolução/melhora no produto
-
-segurança
-confidenciabilidade - informações "sigilosas"
-integridade - registro de alterações e apenas por pessoas autorizadas
-não repudio - ibnformações para evitar fraude
-responsabilidade - prestação de contas
-autenticidade - garantir que foi a pessoa quem fez a ação, rastrear e verificar se foi real.
 
 teste manual x teste automatzado
 existem demandas apenas para o teste manual, mas também existm para automçaõ, em alguins caso o manual não é uma possibilidade, e outros em que a automação é um trablho desnecessário
