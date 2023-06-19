@@ -25,21 +25,13 @@ ________________________________________________________________________________
  - Quantos testes tem?
  - Quais testes são mais relevantes
 
-### [débito técnico]()
+### [Débito técnico](https://github.com/LaurenMonici/GitSprints/issues/6)
 
 
-a história dos testes
- iniciado com uma máquina mecanica para soma, onde Ada tanana encontrou um defeito no maquinário
- história de Alan Turing
- - a origem da expressão bug com a mulher testando o Mark 2
- - grandes nomes brasileiros na área de teste de software
- - importancia dos teste e danos do bug
- - prejuizo financeiro - é recuperável
- - prejuizo de imagem - danos maiores e de longo prazo
- - bugs afetam a segurança do governp
- - bugs afetam meio ambiente, como não desligar luzes e motores, ou gastarem mais recursos durante o trabalho
+### [A história dos testes]()
 
-### [os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) 
+
+### [Os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) 
 
 
 
