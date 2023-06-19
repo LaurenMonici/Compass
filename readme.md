@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 ### [Testes e qualidade](https://github.com/LaurenMonici/GitSprints/issues/9)
 
-###[Mais sobre Testes](https://github.com/LaurenMonici/GitSprints/issues/10)
+### [Mais sobre Testes](https://github.com/LaurenMonici/GitSprints/issues/10)
 
 
 _____________________________________________________________________________________________________________________________________________________________________
