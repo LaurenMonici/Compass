@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-**Dia 3 e 4 - Curso sobre teste e QA**
+**Dia 3, 4 e 5- Curso sobre teste e QA e material**
 ### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
@@ -47,19 +47,6 @@ ________________________________________________________________________________
 
 ### [Padrão ISO 25010](https://github.com/LaurenMonici/GitSprints/issues/8)
 
-### [Testes e qualidade]()
+### [Testes e qualidade](https://github.com/LaurenMonici/GitSprints/issues/9)
 
-dia 5 - 
-teste dinâmico e teste estático
-execução e avaliação
-depuração é a coreção dos eros
-eficácia é o resultasdo e eficienacia é o modo
-o teste só aumente a qualidade
-quando defeitos são encontrado e corrigidos
-verificção de conformidade dos equisitos funcionais
-requisitos não funcionais (confiabilidade, usabilidade etc)
-qualidade custa menos
-reduz retrabalho - custo de manutençaõ e chamados de suporte
-+ qualidade = produção veloz = +produtividade
-tecnicas aplicadas com nivel e nos pontos certos geram entregas menos problemáticas
-planejamento - analise - modelagem -implementação - execução - conclusão
+###[Mais sobre Testes]()
