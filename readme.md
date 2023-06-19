@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-**Dia 3 - Sobre teste e QA**
+**Dia 3, 4 e 5 - Curso sobre teste e QA**
 ### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
@@ -21,14 +21,12 @@ ________________________________________________________________________________
  ### [Hard skills](https://github.com/LaurenMonici/GitSprints/issues/4)
 
 
-tecnicas de teste
-quantos testes tem?
-quais testes são mais relevantes
+**Técnicas de teste**
+ - Quantos testes tem?
+ - Quais testes são mais relevantes
 
-débito técnico
-inevitável
-o problema não é a duvida, é não resolver ela, não conseguir planos e não resolve-lo
-manter ritmo     o conhecimento(ferramentas) expira, reconhecimento não
+### [débito técnico]()
+
 
 a história dos testes
  iniciado com uma máquina mecanica para soma, onde Ada tanana encontrou um defeito no maquinário
@@ -41,7 +39,7 @@ a história dos testes
  - bugs afetam a segurança do governp
  - bugs afetam meio ambiente, como não desligar luzes e motores, ou gastarem mais recursos durante o trabalho
 
-### [os 7 fundamentos do software (istqb)]() 
+### [os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) 
 
 
 
