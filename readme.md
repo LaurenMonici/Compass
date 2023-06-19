@@ -13,29 +13,10 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________
 
 **Dia 3 - Sobre teste e QA**
- - A area de tecnologia cresce mais a cada ano.
- - é uma área que gera pressão nos trabalhadores
- - exige estudo constante por conta das inúmeras mudanças, evoluçoes e tipos de tecnologia
- - são muitas vagas espalhadas pelo mundo todo
- - é uma área sem preconceitos
- - idade não é relevante, o interesse está no conhecimento e capacidade relacionado á area
- - inúmeros cargos com niveis e/ou especializaçoes diferentes
- - todos devem relizar testesm, já que cada um tem um ponto de vistas diferente
+### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
- perfil profissional de Qa
- soft skill
- habilidade pessoal
- - motivação, persistena, curiosidade, gostar de aprender, perfccionista,detalhista, resiliencia, foco em solução, organização,priorização.
- - saber se comunicar com diferentes tipos de pessoas, interpretação é importante, aprender a comunicar erros. criar boas relações para que a comunicação seja tranquila
-
- - negociar é importante. relaço ganh-ganha
- - Prazos e recursos
- - empatia
- - reuniões são de extrema importância
- - saber ajudar e pedir ajuda
- - time trabalha junto
- - saber dar e receber feedback
- - o time contrata e o time demite
+ **perfil profissional de Qa**
+ ### [Soft Skills]()
 
 
 Hard skills
