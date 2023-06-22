@@ -1,7 +1,11 @@
 ### **Sprint 1**   
 > Créditos de colaboração durante a Sprint : Andressa Monteiro, David Diogenes e Vitor Bernardo
 
-**Dia 1 - Utilização do git**
+**Dia 1**                     
+ - **Esclarecimentos sobre a empresa e o programa de bolsas**
+ - **Reunião com a equipe e conversas sobre o funcionamento**
+### **Falando sobre Git**
+- Consumo do material sugerido
 - Instalação do git no Linux
 - Criação do readme.md
 - Comandos do [Git](https://github.com/LaurenMonici/GitSprints/issues/15)
@@ -77,3 +81,26 @@ Seguindo a ordem de facilidade da pirâmide, começaremos com o [Teste de unidad
  - recomendação sobre organização de documentação pelo Chat GPT
  - experiências de estudantes e trabalhadores da área com a ferramenta
  - menções a nova ferramenta do google, que se assemelha ao funcionamento do chat.
+
+_____________________________________________________________________________________
+
+**Dia 7, 8 e 9 - Conteúdos AWS**
+
+  **Modulo 1** - Mantendo como objetivo ensinar a identificar funções e responsabilidades no ambiente clássico de TI e também na nuvem,iniciamos o conhecimento das funções [On-Premises]().
+  
+  **Modulo 2** - onde iniciaremos a jornada de conhecimento sobre as [Funções na Nuvem]()
+
+  **Modulo 3** - Juntamente ao tópico anterior, inciaremos nesse modulo o conhecimento sobre [infraestrutura como código]()
+
+  ### [Conclusão]()
+
+  ______________________________________________________________________________
+
+  **CLiente - Servidor** é qundo o cliente faz a solicitação, o servidor valida e retorna com o material requisitado.
+
+  ### **Computação em nuvem**
+   Falaremos aqui sobre os serviços que a AWS disponibiliza, todas as suas funções e vantagens, iniciando com a [Entrega sob demanda](), logo seguindo para os [Benefícios]() que os sistemas oferecem.
+   
+   Falando também sobre o EC2 e logo começando a explicação sobre os vários [Tipos de instâncias](), também introduzoindo o assunto de [Definições de Preços]() e sua caracteríscas únicas,
+
+   Direcionaremos alguns momentos para estudarmos o [ELB](), os [sistemas de mensagens](), também sobre [Contêineres]() e dando um pouco mais de atenção para a [Infraestrutura global]()
