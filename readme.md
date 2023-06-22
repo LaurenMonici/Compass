@@ -1,14 +1,15 @@
-## **Sprint 1**                                                                        
+### **Sprint 1**   
+> Créditos de colaboração durante a Sprint : Andressa Monteiro, David Diogenes e Vitor Bernardo
+
 **Dia 1 - Utilização do git**
-- Instalação do git
+- Instalação do git no Linux
 - Criação do readme.md
-- Comandos do git (init, add, commit, etc)
+- Comandos do [Git](https://github.com/LaurenMonici/GitSprints/issues/15)
 
 _____________________________________________________________________________________________________________________________________________________________________
 
 **Dia 2 - Sobre método SCRUM**
 ### [SCRUM](https://github.com/LaurenMonici/GitSprints/issues/1)
-
 
 _____________________________________________________________________________________________________________________________________________________________________
 
@@ -16,22 +17,23 @@ ________________________________________________________________________________
 ### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
- ### [Soft Skills](https://github.com/LaurenMonici/GitSprints/issues/3)
+ 
+ Primeiro tópico do perfil, as [Soft Skills](https://github.com/LaurenMonici/GitSprints/issues/3)
 
- ### [Hard skills](https://github.com/LaurenMonici/GitSprints/issues/4)
+  O que são as [Hard skills](https://github.com/LaurenMonici/GitSprints/issues/4)?
 
 
 **Técnicas de teste**
  - Quantos testes tem?
  - Quais testes são mais relevantes
 
-### [Débito técnico](https://github.com/LaurenMonici/GitSprints/issues/6)
+O que é o [Débito técnico](https://github.com/LaurenMonici/GitSprints/issues/6)?
 
 
-### [A história dos testes](https://github.com/LaurenMonici/GitSprints/issues/7)
+Qual é [A história dos testes](https://github.com/LaurenMonici/GitSprints/issues/7), equem foram os nomes que marcaram e quais foram seus feitos
 
 
-### [Os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) 
+inciando  [Os 7 fundamentos do software (istqb)](https://github.com/LaurenMonici/GitSprints/issues/5) , onde estarão explicados individualmente
 
 
 
@@ -47,9 +49,7 @@ ________________________________________________________________________________
 
 ### [Padrão ISO 25010](https://github.com/LaurenMonici/GitSprints/issues/8)
 
-### [Testes e qualidade](https://github.com/LaurenMonici/GitSprints/issues/9)
-
-### [Mais sobre Testes](https://github.com/LaurenMonici/GitSprints/issues/10)
+Iniciando com os  [Testes e qualidade](https://github.com/LaurenMonici/GitSprints/issues/9), onde se mostra os principais métodos, e logo seguindo com   [mais sobre Testes](https://github.com/LaurenMonici/GitSprints/issues/10), onde teremos uma reunião em grupo para discutir nossos entendimentos sobre o conteúdo apresentado e mostrar todos os pontos de vista.
 
 ### [Resultado da discussão em grupo](https://github.com/LaurenMonici/GitSprints/issues/11)
 
@@ -66,11 +66,7 @@ ________________________________________________________________________________
  - A pirâmide também indica a importância de que o código passe, em um quase totalidade, pelo teste de unidade
  - Testes E2E devem ser testados menos vezes por conta da demora
 
-### [Teste de unidade](https://github.com/LaurenMonici/GitSprints/issues/12)
-
-### [Teste de integração](https://github.com/LaurenMonici/GitSprints/issues/13)
-
-### [Teste de ponta-a-ponta](https://github.com/LaurenMonici/GitSprints/issues/14)
+Seguindo a ordem de facilidade da pirâmide, começaremos com o [Teste de unidade](https://github.com/LaurenMonici/GitSprints/issues/12), seguindo com a explicação do [Teste de integração](https://github.com/LaurenMonici/GitSprints/issues/13) e finalizando com o [Teste de ponta-a-ponta](https://github.com/LaurenMonici/GitSprints/issues/14), onde e quando devem ser usados, suas vantagens e facilidades
 
 
 
