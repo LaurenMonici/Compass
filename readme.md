@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 **Dia 7, 8 e 9 - Conteúdos AWS**
 
-  **Modulo 1** - Mantendo como objetivo ensinar a identificar funções e responsabilidades no ambiente clássico de TI e também na nuvem,iniciamos o conhecimento das funções [On-Premises]().
+  **Modulo 1** - Mantendo como objetivo ensinar a identificar funções e responsabilidades no ambiente clássico de TI e também na nuvem,iniciamos o conhecimento das funções [On-Premises](https://github.com/LaurenMonici/GitSprints/issues/18).
   
   **Modulo 2** - onde iniciaremos a jornada de conhecimento sobre as [Funções na Nuvem]()
 
