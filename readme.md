@@ -90,7 +90,7 @@ ________________________________________________________________________________
   
   **Modulo 2** - onde iniciaremos a jornada de conhecimento sobre as [Funções na Nuvem](https://github.com/LaurenMonici/GitSprints/issues/19)
 
-  **Modulo 3** - Juntamente ao tópico anterior, inciaremos nesse modulo o conhecimento sobre [infraestrutura como código]()
+  **Modulo 3** - Juntamente ao tópico anterior, inciaremos nesse modulo o conhecimento sobre [infraestrutura como código](https://github.com/LaurenMonici/GitSprints/issues/20)
 
   ### [Conclusão]()
 
