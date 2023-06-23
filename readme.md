@@ -1,10 +1,12 @@
-### **Sprint 1**   
+ **Sprint 1**   
 > Créditos de colaboração durante a Sprint : Andressa Monteiro, David Diogenes e Vitor Bernardo
 
 **Dia 1**                     
  - **Esclarecimentos sobre a empresa e o programa de bolsas**
  - **Reunião com a equipe e conversas sobre o funcionamento**
-### **Falando sobre Git**
+
+  
+   **Falando sobre Git**
 - Consumo do material sugerido
 - Instalação do git no Linux
 - Criação do readme.md
@@ -13,6 +15,9 @@
 _____________________________________________________________________________________________________________________________________________________________________
 
 **Dia 2 - Sobre método SCRUM**
+
+Traduzido do inglês - Scrum é uma estrutura leve que ajuda pessoas, equipes e organizações a gerar valor por meio de soluções adaptáveis ​​para problemas complexos. É comumente usado no desenvolvimento de software, embora também seja usado em outros campos, incluindo pesquisa, vendas, marketing, educação e tecnologias avançadas
+
 ### [SCRUM](https://github.com/LaurenMonici/GitSprints/issues/1)
 
 _____________________________________________________________________________________________________________________________________________________________________
