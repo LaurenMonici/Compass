@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
   ______________________________________________________________________________
 
-  **CLiente - Servidor** é qundo o cliente faz a solicitação, o servidor valida e retorna com o material requisitado.
+  **Cliente - Servidor** é qundo o cliente faz a solicitação, o servidor valida e retorna com o material requisitado.
 
   ### **Computação em nuvem**
    Falaremos aqui sobre os serviços que a AWS disponibiliza, todas as suas funções e vantagens, iniciando com a [Entrega sob demanda](https://github.com/LaurenMonici/GitSprints/issues/16), logo seguindo para os [Benefícios](https://github.com/LaurenMonici/GitSprints/issues/17) que os sistemas oferecem.
