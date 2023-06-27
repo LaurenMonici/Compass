@@ -6,7 +6,7 @@
  - **Reunião com a equipe e conversas sobre o funcionamento**
 
   
-   **Falando sobre Git**
+  ### **Falando sobre Git**
 - Consumo do material sugerido
 - Instalação do git no Linux
 - Criação do readme.md
@@ -23,7 +23,7 @@ Traduzido do inglês - Scrum é uma estrutura leve que ajuda pessoas, equipes e 
 _____________________________________________________________________________________________________________________________________________________________________
 
 **Dia 3, 4 e 5- Curso sobre teste e QA e material**
-### [Sobre a área](https://github.com/LaurenMonici/GitSprints/issues/2)
+### [Sobre a área de QA](https://github.com/LaurenMonici/GitSprints/issues/2)
  
  **perfil profissional de Qa**
  
@@ -65,7 +65,7 @@ Iniciando com os  [Testes e qualidade](https://github.com/LaurenMonici/GitSprint
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-**DIA 6 - Fundamentos do teste - Backend**
+### **DIA 6 - Fundamentos do teste - Backend**
 
 **A pirâmide de testes**
 
@@ -79,7 +79,7 @@ Seguindo a ordem de facilidade da pirâmide, começaremos com o [Teste de unidad
 
 
 
-**Webinar - Generative AI**
+### **Webinar - Generative AI**
  - Vantagens e desvantagens do Uso do chat GPT
  - Problemas apresentados durante a utilização da ferramenta
  - Como utilizar o chat de uma maneira mais útil
@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
   **Modulo 3** - Juntamente ao tópico anterior, inciaremos nesse modulo o conhecimento sobre [infraestrutura como código](https://github.com/LaurenMonici/GitSprints/issues/20)
 
-  ### [Conclusão](https://github.com/LaurenMonici/GitSprints/issues/21)
+  ### [Conclusão AWS](https://github.com/LaurenMonici/GitSprints/issues/21)
 
   ______________________________________________________________________________
 
