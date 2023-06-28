@@ -1,5 +1,7 @@
 **Sprint 2**
+
 ### **dia 1**       
+
  - **Sobre o report de bugs.**
    - Gerenciamento de projetos
    - DoR -Defininition of Ready
@@ -25,11 +27,27 @@ Quadro com cartões
 
 >**Atividades complementares**
 ### **significado dos diferentes status code de API REST**
- - Respostas de informação ( 100- 199),
- - Respostas de sucesso ( 200- 299),
- - Redirecionamentos ( 300- 399)
- - Erros do cliente ( 400- 499)
- - Erros do servidor ( 500- 599).
+ - Respostas de informação (100 - 199)
+ - Respostas de sucesso (200 - 299)
+ - Redirecionamentos (300 - 399)
+ - Erros do cliente (400 - 499)
+ - Erros do servidor (500 - 599)
+
+o que fazer para reportar bugs com eficiência
+   - Resumo
+   - Descrição
+   - Passos para reproduzir
+   - Evidências de validação
+
+**Assim, outros optam por inserir ainda mais informações, como:**
+   - Quem reportou
+   - Descrição resumida
+   - Descrição detalhada
+   - Data em que o defeito foi descoberto
+   - Gravidade
+   - Status
+
+
 
 ________________________________________________________
 ### **Dia 2 - Testes Estáticos (Swagger)**
@@ -40,4 +58,5 @@ ________________________________________________________
 
 
 _____________________________________________________
-### ****
+### **Dia 3 - Tipos de erros, validações e boas práticas nos testes de API**
+ - 
