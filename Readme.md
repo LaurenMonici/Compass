@@ -47,7 +47,7 @@ o que fazer para reportar bugs com eficiência
    - Gravidade
    - Status
 
-
+ <img src="https://pt.smartsheet.com/sites/default/files/IC-Bug-Report-Form-Template-57399_PT.png" width="600" />
 
 ________________________________________________________
 ### **Dia 2 - Testes Estáticos (Swagger)**
