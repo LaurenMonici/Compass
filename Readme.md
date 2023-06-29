@@ -149,3 +149,7 @@ Embora seja desejável testar um sistema por completo, deve-se ter em mente que 
  
      O planejamento é necessário a fim de antecipar o que pode ocorrer e, portanto, provisionar os recursos necessários nos momentos adequados. Isto significa coordenar o processo de teste de modo a perseguir a meta de qualidade do produto (sistema de software).
 [Tabela com os itens de um plano de testes](https://www.devmedia.com.br/plano-de-teste-um-mapa-essencial-para-teste-de-software/13824#:~:text=de%20uma%20institui%C3%A7%C3%A3o.-,Itens%20de%20um%20Plano%20de%20Teste,-Conte%C3%BAdo)
+
+_______________________________________________________
+### **Dia 5 - Cobertura de testes de APIs & Testes candidatos à automação**
+ - 
