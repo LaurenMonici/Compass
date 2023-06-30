@@ -1,38 +1,43 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+nome: Relatório de erro
+sobre: Crie um relatório para nos ajudar a melhorar
+título: ''
+rótulos: ''
+cessionários: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descreva o bug**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+ Uma descrição clara e concisa do que é o bug.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Para reproduzir**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Etapas para reproduzir o comportamento:
+1. Vá para '...'
+2. Clique em '....'
+3. ir até até '....'
+4. Ver erro
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Comportamento esperado**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ Uma descrição clara e concisa do que você esperava que acontecesse.
 
-**Additional context**
-Add any other context about the problem here.
+**Capturas de tela**
+
+Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
+
+**Desktop (preencher as informações requeridas abaixo):**
+ - SO: [e.g. iOS]
+ - Navegador [e.g. chrome, safari]
+ - Versão [e.g. 22]
+
+**Smartphone (preencher as informações requeridas abaixo):**
+ - Dispositivo: [e.g. iPhone6]
+ - SO: [e.g. iOS8.1]
+ - Navegador [e.g. navegador padrão, safari]
+ - Versão [e.g. 22]
+
+**Contexto adicional**
+
+Adicione qualquer outro contexto sobre o problema aqui.
