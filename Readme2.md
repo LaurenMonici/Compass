@@ -152,4 +152,131 @@ Embora seja desejável testar um sistema por completo, deve-se ter em mente que 
 
 _______________________________________________________
 ### **Dia 5 - Cobertura de testes de APIs & Testes candidatos à automação**
- - 
+ - Como dar cobertura completa ao back-end da aplicação
+ - Usando Postman
+ - Sem rotas
+ - Fluxo de teste – criar usuário, adiciona item ao carrinho e finalizar compra
+ - Não existe somente um fluxo
+
+
+### **como medir a cobertura de testes de API REST**
+
+ - **Cobertura de caminho (entrada)**
+
+A análise é realizada pela quantidade de URI( URL + URN ( Nome do recurso )) que uma API possui (se for a mesma URI para métodos diferentes, considere-se apenas um).
+O ideal é realizar ao menos uma requisição para verificar cada endpoint.
+Suponha que a automação desta API tenha apenas 6 desses endpoints implementados, mas uma API possui 13 endpoints.
+Para calcular a cobertura: quantidade de testes controlados / quantidade de endpoints na API REST.
+
+![](https://miro.medium.com/v2/resize:fit:430/format:webp/1*UzlqnUIMKRiH92L1yEGhuA.png)
+
+Então 46% dos testes de caminho estão cobertos pela automação.
+
+ - **Cobertura do Operador (entrada)**
+
+Confira a cobertura de testes de todos os métodos existentes na API REST (GET, POST, PUT, DELETE…).
+Então, você deve verificar quais métodos da API foram cobertos pela automação de testes. Vamos supor que dezesseis métodos tiveram testes concluídos implementados.
+Para calcular a cobertura: quantidade de operações da API estão automatizadas/ quantidade total de operações da API REST.
+
+![](https://miro.medium.com/v2/resize:fit:410/format:webp/1*YhPNpXV-JimfE8S6Hu_ZEQ.png)
+
+Então temos 84% dos testes de operações cobertos.
+
+ - **Cobertura de Parâmetros (entrada)**
+
+Verifique a cobertura de uma suíte de testes conforme os parâmetros existentes em cada método da API.
+Para atingir 100% de cobertura de testes é necessário testar todos os parâmetros de entrada de cada operação pelo menos uma vez. Realizar a combinação de todos os parâmetros é desejável, mas não mantida necessária para chegar a 100% de cobertura.
+Suponha que a API tenha um total de 5 parâmetros, e na automação da API os 5 parâmetros foram cobertos.
+Quantidade total de parâmetros cobertos nas suítes de testes / quantidade total de parâmetros nos métodos da API.
+
+![](https://miro.medium.com/v2/resize:fit:418/format:webp/1*vhNMozJFd8PzW4HyVqHLFw.png)
+
+
+ - **Cobertura do valor do parâmetro (entrada)**
+
+Confira a cobertura da suíte de testes de parâmetros booleanos e enum nas operações (se existirem).
+Para calcular a cobertura:
+Quantidade total de valores diferentes enviados / quantidade total de valores que podem assumir.
+Para atingir 100% de cobertura cada parâmetro booleano e enum deve assumir todos os valores possíveis.
+
+ - **Cobertura Content-Type (entrada e saída)**
+
+Verifica a cobertura de testes automatizados onde o content-type está sendo exibido em cada endpoint, ou seja, se for demonstrado nas opções do content-type de envio application/json e um application/xml, então duas opções dos parâmetros de envio deveriam ser decks.
+Para calcular a cobertura:
+Quantidade total de content-type em cada operação coberta pela suíte de testes / Quantidade total de content-type em todas as operações da API.
+Suponha uma API que possuía como operações POST, PUT, GET e DELETE. POST e PUT possuem cada um 2 opções de content-type, logo a API possui um total de 4 content-type a serem cobertos. A automação cobriu apenas uma opção, no POST e uma opção, no PUT.
+
+![](https://miro.medium.com/v2/resize:fit:420/format:webp/1*A5X_sRtdJb2Ui0GoZad8Eg.png)
+
+ - **Fluxo de operação (entrada)**
+
+Este completou mede um conjunto de testes de acordo com as sequências de operações que são executadas.
+Por exemplo:
+Fluxo1: Post-Get(id)
+Fluxo2: Post-Put
+Fluxo3: pós-exclusão
+Fluxo4: Post-Get (Consulta)
+Se todos os fluxos estiverem implementados no teste concluído, então a API Rest está 100% coberta pela automação.
+Porém se é possível criar 4 tipos de fluxos, mas sua automação possui apenas um, por exemplo, criação (Post) e consulta (Get id), então terá apenas 25% de cobertura.
+
+![](https://miro.medium.com/v2/resize:fit:408/format:webp/1*pVocJbzt_kkPcFmlNS5peg.png)
+
+ - **Cobertura do Corpo de Propriedades de Resposta (Saída)**
+
+Este completou mede os parâmetros no corpo da resposta, então deve ser verificado se todas as propriedades da resposta estão cobertas pelo teste.
+Para calcular a cobertura, deve-se dividir o número total de todas as propriedades de todos os objetos que podem ser obtidos na resposta da API, pelo número de propriedades da resposta que os testes estão cobrindo.
+
+ - **Cobertura do Código de Status (Saída)**
+
+É possível verificar quais códigos de status existentes em cada terminal estão cobertos pelos testes.
+Suponha que a API tenha um total de 25 códigos de status, e na automação da API apenas 15 códigos de status foram cobertos.
+
+ ![](https://miro.medium.com/v2/resize:fit:416/format:webp/1*_uTXDuESQ_495KDpQxIp3g.png)
+ 
+Portanto, para atingir 100% da cobertura de testes, todos os códigos de status de cada operação devem estar implementados nos testes.
+Realizar o levantamento dos critérios de cobertura é importante, pois te dá um norte para saber o quão efetivo os testes concluídos estão sendo. Será que todos os caminhos da sua API estão cobertos? Será que não é possível atingir 100% de cobertura de parâmetros de entrada dos métodos? Comente aí, o que você achou desta metodologia ou se você aplicaria e mostraria a cobertura de testes para o seu tempo.
+
+
+
+________________________________________________________
+### **Dia 6 - Introdução às atividades de análise de teste & Priorização em diferentes aplicações**
+
+**Vídeo 1**
+Profissional de QA – é responsável pela atividade que garante qualidade no processo de desenvolvimento.
+Domínio da arquitetura dos projetos
+Planejar estratégia de teste
+Executar testes
+Análise de pros e contras dos planos de teste
+Análise e revisão de código
+Catalogar, periciar e documentar evidências
+Configurar e criar processos
+Conhecimento técnico da infra
+Análise e documentação de feedbacks
+QA, QC e Tester são muito semelhantes
+TDD 
+BDD 
+DDD
+
+**Vídeo 2, 3, 4 e 5**
+Qual o objetivo da minha aplicação – com isso eu consigo descobrir os fluxos prioritários, que nunca poderão deixar de ser executados.
+Rotas de prioridade, é definido pelas ações que afetam o objetivo principal da aplicação
+Priorizar não significa deixar de testar, mas sim definir aquele que irão gerar mais problemas.
+
+>### **Atividade sobre priorização**
+ - Apresentar a aplicação, segmento e objetivo do sistema
+ - Elaborar listas de fluxos de validação prioritários no sistema escopo
+ - Ordenar a lista de forma lógica, para a realização de fluxos completos na aplicação
+    - Nome: Steam
+    - Segmento: Distribuição de jogos digitais
+    - Objetivo: realizar a venda dos mais variados jogos por meio de uma plataforma online
+**Lista de fluxos:**
+1.	Validar Login
+2.	Validar cadastro
+3.	Validar acesso aos jogos
+4.	Validar o acionamento de itens no carrinho
+5.	Acessar carrinho
+6.	Inserir informações de pagamento
+7.	Verificar meio de pagamento
+8.	Confirmar venda
+9.	Enviar chave de download
+
