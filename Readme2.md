@@ -47,7 +47,6 @@ o que fazer para reportar bugs com eficiência
    - Gravidade
    - Status
 
- <img src="https://pt.smartsheet.com/sites/default/files/IC-Bug-Report-Form-Template-57399_PT.png" width="600" />
 
 ________________________________________________________
 ### **Dia 2 - Testes Estáticos (Swagger)**
@@ -279,4 +278,24 @@ Priorizar não significa deixar de testar, mas sim definir aquele que irão gera
 7.	Verificar meio de pagamento
 8.	Confirmar venda
 9.	Enviar chave de download
+________________________________________________________
+### **Dia 7 - Análise HTTP e API REST**
+
+**Monte o mapa mental da API Serverest**
+
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/51c29d9c-b155-4b11-989d-e5f735adcaf5)
+
+________________________________________________________
+### **Dia 8 e 9 - Introdução ao Postman e início do processo de testes**
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/95bf37ce-1103-401d-869a-3d228cf8a164)
+
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/822d244c-4649-439a-921a-a2be02de8290)
+
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/c8613485-2b40-4905-ae70-928afcce0ff2)
+
+
 
