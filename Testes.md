@@ -62,3 +62,15 @@
       - senha
       - nome
     - tentativa de cadastro com email já cadastrado
+   ___________________________________________________
+   # Sobre Melhorias e bugs
+    - os emails categorizados como email e gmail são cadastrados normalmente, não há uma verificação para que seja proibido
+    - nem sempre os email que passam são realmente válidos
+    - não há verificações para as senhas
+  
+   ___________________________________________________
+
+   # Teste de email já utilizado
+   
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/b48ef523-92bb-4d81-affb-8781a58e0327)
+
