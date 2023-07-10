@@ -92,24 +92,7 @@ _______________________________________________________
  - Quais os cenários essenciais
  - Quais cenários podem ser automatizados
 
-**Como organizar os testes?**
-
-**Nome do projeto** – é o resumo do resumo, apresenta o nome da ação (usabilidade, ex), tem o intuito de auxiliar na busca, sendo direto em sua função. Em que ponto do projeto e qual o projeto
-**Resumo** – explicação dos testes, usar o planejamento e resumir. Apresenta-se a hipótese e o teste
-Pessoas envolvidas no teste – Precisa-se de informações do publico alvo, assim como também saber quem participa do teste e até recrutar usuários pra realizar ainda mais testes.
-
-**Funcionalidade** – o que vai ser testado, relacionado coma análise do teste, todos tem que saber o que será e o que não será testado.
-
-**Local dos testes** – é necessário um local específico? Será laboratório? Ambiente de uso emulado?
-Recursos necessários -  o que será necessário? Tem relação com a implementação. Quais recursos serão necessários? Será preciso uma sala especial? Alguma infraestrutura necessária? Alguns software? Algum script? Dinheiro?
-
-**Critérios usados** – modelagem do testes, quantidade dos testes, quais critérios para um teste ser válido ou não. Como os testes serão divididos entra as pessoas, será necessário entrevistar usuários? Quais tarefas o usuário vai fazer?
-
-**Riscos** – dependendo do local e da necessidade(como energia e internet) será necessário voltar aos recursos necessários para inserir mais recursos relacionados a esse problema
-
-**Como os resultados serão divulgados** – Relatório de defeitos, de resultados dos testes, será gerado um novo documento?
-
-**Cronograma** – quando as atividades serão realizadas? Data de início e fim, devem ser respeitadas, assim evitam ainda mais atrasos. Serve para monitorar projeto
+**[Como organizar os testes?]()**
 
 **Plano de testes**
 
