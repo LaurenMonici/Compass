@@ -94,43 +94,7 @@ _______________________________________________________
 
 **[Como organizar os testes?](https://github.com/LaurenMonici/Compass/issues/22#issue-1797187292)**
 
-**Plano de testes**
-
-[Artigo sobre o tema](https://www.devmedia.com.br/plano-de-teste-um-mapa-essencial-para-teste-de-software/13824#:~:text=De%20que%20trata,desenvolvimento%20de%20software.)
-
-É uma a atividade essencial para todo e qualquer projeto, funciona como um mapa, e sem ele ou algo similar, não se saberia os “caminhos” certos para chegar á conclusão do projeto.
-O plano usa três atividades principais
- - Definição de um cronograma de atividades – estabelece as atividades e a ordem de execução
- - Fazer alocação de recursos – quem vai realizar as atividades e quais ferramentas vão ser usadas
- - Definir marcos de projeto – estabelece as milestones a ser alcançadas com intuito de acompanhar.
-Planejamento vem acompanhado da atividade de monitorar e supervisionar, para avaliar o progresso e ver se está de acordo com os conformes. Em resumo. Quão bem o projeto está correndo?
-
-     Dentro do contexto de software, será necessária a documentação, plano de projeto, requisitos e plano de teste. e o plano de teste é um documento ou mapa no qual se definem escopo e objetivos, além de requisitos, estratégias e recursos a serem empregados nas atividades de testes de software.
-   
-**Teste de Software**
-
-   Teste de software é uma das atividades do processo de desenvolvimento de sistema de software que visa executar um programa de modo sistemático com o objetivo de encontrar falhas. Perceba que isto requer verificação e validação de software. Nesse sentido, definir quando as atividades de verificação e validação iniciam e terminam, como os atributos de qualidade serão avaliados e como os releases do software serão controlados, são questões que devem ser acompanhadas ao longo do processo de software.
-     
-   Além de encontrar falhas, testes objetivam aumentar a confiabilidade de um sistema de software, isto é, aumentar a probabilidade de que um sistema continuará funcionando sem falhas durante um período de tempo.
-     
-Embora seja desejável testar um sistema por completo, deve-se ter em mente que a atividade de teste assegura apenas encontrar falhas se ela(s) existirem, mas não asseguram sua ausência. Portanto, as atividades devem ser disciplinadas a fim de identificar a maioria dos erros existentes. Note que realizar os testes de software implica em responder às questões:
-
-1. Quais atributos da qualidade deverão ser testados?
-2. Quem realizará os testes?
-3. Quais recursos serão utilizados?
-4. Quais as dependências entre os atributos de qualidade?
-5. Quais as dependências entre as atividades de desenvolvimento?
-6. Como o processo e a qualidade do sistema de software serão acompanhados?
-
-
-**Em outras palavras**, um plano de teste deve definir:
-1. Os itens a serem testados: o escopo e objetivos do plano devem ser estabelecidos no início do projeto.
-2. Atividades e recursos a serem empregados: as estratégias de testes e recursos utilizados devem ser definidos, bem como toda e qualquer restrição imposta sobre as atividades e/ou recursos.
-3. Os tipos de testes a serem realizados e ferramentas empregadas: os tipos de testes e a ordem cronológica de sua ocorrência são estabelecidos no plano.
-4. Critérios para avaliar os resultados obtidos: métricas devem ser definidas para acompanhar os resultados alcançados.
- 
-     O planejamento é necessário a fim de antecipar o que pode ocorrer e, portanto, provisionar os recursos necessários nos momentos adequados. Isto significa coordenar o processo de teste de modo a perseguir a meta de qualidade do produto (sistema de software).
-[Tabela com os itens de um plano de testes](https://www.devmedia.com.br/plano-de-teste-um-mapa-essencial-para-teste-de-software/13824#:~:text=de%20uma%20institui%C3%A7%C3%A3o.-,Itens%20de%20um%20Plano%20de%20Teste,-Conte%C3%BAdo)
+**[Plano de testes]()**
 
 _______________________________________________________
 ### **Dia 5 - Cobertura de testes de APIs & Testes candidatos à automação**
