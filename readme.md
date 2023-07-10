@@ -94,7 +94,7 @@ _______________________________________________________
 
 **[Como organizar os testes?](https://github.com/LaurenMonici/Compass/issues/22#issue-1797187292)**
 
-**[Plano de testes]()**
+**[Plano de testes](https://github.com/LaurenMonici/Compass/issues/23#issue-1797191422)**
 
 _______________________________________________________
 ### **Dia 5 - Cobertura de testes de APIs & Testes candidatos à automação**
