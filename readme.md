@@ -289,10 +289,29 @@ ________________________________________________________
 ________________________________________________________
 ### **Dia 8 e 9 - Introdução ao Postman e início do processo de testes**
 
+**Teste de email já utilizado**
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/65b5c85c-8a0b-4561-b652-03c913ec35d8)
+
+**Cadastro com sucesso**
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/3aae18bd-da05-41c5-8237-8656fe0c1a5f)
+
+**Teste com email em formato inválido**
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/79fc5607-1562-4644-afd3-204032f69e06)
+
+**Teste de email em branco**
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/2f393851-4aee-4920-84db-103606721c78)
+
+
 ![image](https://github.com/LaurenMonici/Compass/assets/136503745/95bf37ce-1103-401d-869a-3d228cf8a164)
 
+**Teste para Edit usuário**
 
 ![image](https://github.com/LaurenMonici/Compass/assets/136503745/822d244c-4649-439a-921a-a2be02de8290)
 
+**Teste de busca de mercadoria por id**
 
 ![image](https://github.com/LaurenMonici/Compass/assets/136503745/c8613485-2b40-4905-ae70-928afcce0ff2)
