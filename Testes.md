@@ -70,7 +70,36 @@
   
    ___________________________________________________
 
-   # Teste de email já utilizado
+   # Email já utilizado
    
    ![image](https://github.com/LaurenMonici/Compass/assets/136503745/b48ef523-92bb-4d81-affb-8781a58e0327)
+
+   # Password em branco
+   
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/0e923595-4e36-42e2-89c7-d4528b6c568f)
+
+   # Email em branco
+
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/d752a888-1f6e-4e65-9cbe-e4021ac5ce8a)
+
+   # Fomato de email inválido
+
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/06816b6f-e889-46fd-8cce-927e7aa8c174)
+
+   # Nome em branco
+   
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/934a670e-00dd-47fe-accc-3a3e4bc2a096)
+
+   # Login realizado
+
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/da03b39d-f05c-4387-802d-d6c2865bcd34)
+
+   # Senha incorreta
+
+   ![image](https://github.com/LaurenMonici/Compass/assets/136503745/169b24bb-2b55-4649-9b26-62568cc71456)
+
+
+
+
+
 
