@@ -92,7 +92,7 @@ _______________________________________________________
  - Quais os cenários essenciais
  - Quais cenários podem ser automatizados
 
-**[Como organizar os testes?]()**
+**[Como organizar os testes?](https://github.com/LaurenMonici/Compass/issues/22#issue-1797187292)**
 
 **Plano de testes**
 
