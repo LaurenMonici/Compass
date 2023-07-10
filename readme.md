@@ -1,5 +1,7 @@
 **Sprint 2**
 
+>Obtive ajuda em algumas etapas, Andressa, David e Vitor me auxiliaram em alguns momentos e também discutimos sobre alguns assuntos durante a Sprint
+
 ### **dia 1**       
 
  - **Sobre o report de bugs.**
