@@ -45,20 +45,34 @@ Quero acessar informações sobre os jogos e usuários da Steam através de uma 
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-## **Dia 4**
+## **Dia 4 - Gestão de Issues**
+
+ -  Jira: Bug ou Issue de aceitação
+ -  Como identificar uma solicitação do cliente
+ -  Como classificar bug em dev/análise/massa/ambiente
+    
+ - DEV: O bug pode ter ocorrido devido a uma falha no desenvolvimento da demanda.
+ - ANÁLISE: Especificações funcionais e técnicas elaboradas erroneamente ou que não suprem a necessidade do cliente.
+ - MASSA: Inconsistência nos dados utilizados para testes.
+ - AMBIENTE: Falha no ambiente que está sendo utilizado para testes. Nesse caso pode ser necessário entrar em contato com a fornecedora do produto ou administrador do sistema. 
 
 
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-## **Dia**
+## **Dia 5 e 6 - Gerenciamento, Ciclos e Reports de testes**
+
+ - Uso/Migração do Jira + Test Cycles
+ - Board contendo no mínimo as raias BACKLOG, ANALISE, DEV, TESTE, ACEITAÇÃO e PRONTO;
+ - Instalar o plugin
+ - Migrar as User Stories, Tasks, Testes e Issues (melhoria/bug)
 
 
 _____________________________________________________________________________________
 
-## **Dia**
+## **Dia 7, 8 e 9 - Evolução de challenge e mentoria**
 
 
-  ______________________________________________________________________________
+
 
  
