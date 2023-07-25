@@ -36,6 +36,8 @@
     - tentativa com senha de tamanho inferior
  - **Ferramentas**
     - Postman
+    - jira
+    
       
  - **Estratégia**
     - Seguir todas as rotas possíveis para cobrir toda e qualquer possibilidade
