@@ -1,48 +1,83 @@
 # **Planejamento de testes**
 
- - **Nome do projeto**
+## - **Nome do projeto**
     - Testes ServeRest
       
- - **Resumo**
+## - **Resumo**
     - Realização de testes para garantir o funcionamento correto das rotas
       
- - **Integrantes**
+## - **Integrantes**
     - Lauren
       
- - **Funcionalidades**
+## - **Funcionalidades**
     - Testes de verbos
     - Testes no CRUD
     - Teste de endpoint
       
- - **Local de teste**
+## - **Local de teste**
     - Postman
       
- - **Recursos**
+## - **Recursos**
     - Computador
     - Postman
     - acesso a internet
       
- - **Critérios**
+## - **Critérios**
     - Sem chamadas inexistentes
     - emails já utilizados serão barrados
     - sem cadastros de origem gmail e hotmail
     - email em padrão válido
       
- - **Casos de teste**
+## - **Casos de teste**
     - Criação de usuário
       - teste com campos em branco
     - chamada inexistente
     - criação com usuário já cadastrado
     - tentativa com senha de tamanho inferior
- - **Ferramentas**
+
+### Login
+ - Log ok
+ - Log incorreto
+ - Log inválido
+   
+### Produtos
+ - Busca por id
+ - Alteração
+ - Busca
+ - Cadastro sem descrição
+ - Cadastro erro descrição(com espaço apenas)
+ - Produto sem nome
+ - Cadastro ok
+   
+### Usuário
+ - Provedor gmail
+ - Provedor Hotmail
+ - User já usado
+ - User sem nome
+ - User sem email
+ - Usem sem campo nome
+ - User sem campo senha
+ - User sem campo email
+ - User sem campo adm
+ - User sem senha
+ - User ok
+ - Formato de email inválido
+   
+### Melhorias(?)
+ - Senha com espaço
+ - Senha com caracteres especiais
+ - Senha com menos de 5 caracteres
+ - Senha com mais de 10 caracteres
+
+## - **Ferramentas**
     - Postman
     - jira
     
       
- - **Estratégia**
+## - **Estratégia**
     - Seguir todas as rotas possíveis para cobrir toda e qualquer possibilidade
       
- - **Cenários**
+## - **Cenários**
     - Cadastro
       - cadastro com sucesso
       - email já em uso
@@ -59,7 +94,7 @@
       - listagem completa
       - chamadas inexistentes
       
- - **Automação**
+## - **Automação**
     - usuário sem
       - senha
       - nome
