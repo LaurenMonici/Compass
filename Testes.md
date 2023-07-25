@@ -1,53 +1,53 @@
 # **Planejamento de testes**
 
 ## - **Nome do projeto**
-    - Testes ServeRest
+ - Testes ServeRest
       
 ## - **Resumo**
-    - Realização de testes para garantir o funcionamento correto das rotas
+- Realização de testes para garantir o funcionamento correto das rotas
       
 ## - **Integrantes**
-    - Lauren
+ - Lauren
       
 ## - **Funcionalidades**
-    - Testes de verbos
-    - Testes no CRUD
-    - Teste de endpoint
+- Testes de verbos
+ - Testes no CRUD
+- Teste de endpoint
       
 ## - **Local de teste**
-    - Postman
+- Postman
       
 ## - **Recursos**
-    - Computador
-    - Postman
-    - acesso a internet
+- Computador
+- Postman
+- acesso a internet
       
 ## - **Critérios**
-    - Sem chamadas inexistentes
-    - emails já utilizados serão barrados
-    - sem cadastros de origem gmail e hotmail
-    - email em padrão válido
+- Sem chamadas inexistentes
+- emails já utilizados serão barrados
+- sem cadastros de origem gmail e hotmail
+- email em padrão válido
       
 ## - **Casos de teste**
-    - Criação de usuário
-      - teste com campos em branco
-    - chamada inexistente
-    - criação com usuário já cadastrado
-    - tentativa com senha de tamanho inferior
+- Criação de usuário
+- teste com campos em branco
+- chamada inexistente
+- criação com usuário já cadastrado
+- tentativa com senha de tamanho inferior
 
 ### Login
- - Log ok
- - Log incorreto
- - Log inválido
+- Log ok
+- Log incorreto
+- Log inválido
    
 ### Produtos
- - Busca por id
- - Alteração
- - Busca
- - Cadastro sem descrição
- - Cadastro erro descrição(com espaço apenas)
- - Produto sem nome
- - Cadastro ok
+- Busca por id
+- Alteração
+- Busca
+- Cadastro sem descrição
+- Cadastro erro descrição(com espaço apenas)
+- Produto sem nome
+- Cadastro ok
    
 ### Usuário
  - Provedor gmail
@@ -70,35 +70,35 @@
  - Senha com mais de 10 caracteres
 
 ## - **Ferramentas**
-    - Postman
-    - jira
+- Postman
+- jira
     
       
 ## - **Estratégia**
-    - Seguir todas as rotas possíveis para cobrir toda e qualquer possibilidade
+- Seguir todas as rotas possíveis para cobrir toda e qualquer possibilidade
       
 ## - **Cenários**
-    - Cadastro
-      - cadastro com sucesso
-      - email já em uso
-      - campos em branco
-      - email inválido
-      - tentativas com senhas irregulares 
-    - Atualização
-      - atualização com sucesso
-      - vendedor não cadastrado 
-    - Exclusão
-      - exclusão realizada
-      - vendedor não cadastrado 
-    - Chamadas
-      - listagem completa
-      - chamadas inexistentes
+- Cadastro
+  - cadastro com sucesso
+    - email já em uso
+    - campos em branco
+    - email inválido
+    - tentativas com senhas irregulares 
+  - Atualização
+    - atualização com sucesso
+    - vendedor não cadastrado 
+  - Exclusão
+    - exclusão realizada
+    - vendedor não cadastrado 
+  - Chamadas
+    - listagem completa
+    - chamadas inexistentes
       
 ## - **Automação**
-    - usuário sem
-      - senha
-      - nome
-    - tentativa de cadastro com email já cadastrado
+- usuário sem
+  - senha
+    - nome
+  - tentativa de cadastro com email já cadastrado
    ___________________________________________________
    # Sobre Melhorias e bugs
     - os emails categorizados como email e gmail são cadastrados normalmente, não há uma verificação para que seja proibido
