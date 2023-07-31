@@ -15,7 +15,7 @@ ______________________________________________________________________________
  - Operadores
  - Condicionais
  - Laços de repetição
-   - [Mini-Projetos em javaScript]()
+   - [Mini-Projetos em javaScript](https://github.com/LaurenMonici/Compass/tree/JavaScript)
 ______________________________________________________________________________
 
 ### **Dia 4 e 5 - Utilização do Mocha e chai**
