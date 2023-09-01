@@ -58,3 +58,34 @@ As respostas e resultados devem estar de acordo com o esperado.
 ## Ferramentas
  - Postman
  - Jira
+
+# Testes de Performance
+Os testes serão realizados nas seguintes rodas: /login, /usuarios e /produto, cobrindo os verbos GET, POST, DELETE e PUT.
+
+## Volumetria
+Quantidade máxima: 1000 usuários.
+> OBS: Devido às limitações de hardware, foi testado 500 usuários para as requisições.
+
+## Métricas
+- Asserção de Duração: 2000ms.
+- Reqs.
+- FailRate.
+- SuccessRate.
+
+
+## Casos de Teste de Performance
+
+
+| Caso de Teste | Requisição | Quantidade de Usuários |
+| :-: | :-: | :-: |
+| Login | POST | 500 |
+| Cadastro de usuário | POST | 500 |
+| Listar usuários | GET | 500 |
+| Buscar usuário | GET | 500 |
+| Excluir usuário | DELETE | 100 |
+| Editar usuário | PUT | 1 |
+| Cadastro de Produtos | POST | 10 |
+| Listar Produtos | GET | 10 |
+| Buscar Produtos | GET | 20 |
+| Excluir Produto | DELETE | 100 |
+| Editar Produto | PUT | 1 |
