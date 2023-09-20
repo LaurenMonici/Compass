@@ -1,15 +1,15 @@
-# Objetivo: 
+# Objetivo
  - Verificar a funcionalidade correta do sistema, garantindo que usuários possam criar suas ter suas contas, vendo o catálogo de filmes e conseguindo seus tickets
 
 # Escopo:
-As rotas testadas serão:
+As rotas testadas serão
  - Movies
  - Tickets
 
-# Ambiente de teste:
+# Ambiente de teste
 Uma cópia do ambiente de produção, funcionando apenas em host local para não interferir no banco real, mantendo os dados de amostra.
 
-# Critérios de aceitação:
+# Critérios de aceitação
 
 As respostas e resultados devem estar de acordo com o esperado.
 
@@ -45,6 +45,8 @@ As respostas e resultados devem estar de acordo com o esperado.
 |Deletar tickets                             | Delete| 0 | |
 |alterar tickets                             | Put   | 0 | |
  
+
+## Ferramentas Utilizadas
 
 |Ferramentas|
 | :-: |
