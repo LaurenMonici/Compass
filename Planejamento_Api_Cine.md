@@ -55,6 +55,23 @@ As respostas e resultados devem estar de acordo com o esperado.
 |K6|
 |Ec2|
 |Vs code|
+
+## Bugs
+|Requisição|Rota|Bug|
+| :-: | :-: | :-: |
+|Sem mensagem de ok                                       |Post  | Movie   | 
+|Sem verificação se showtime                              |Post  | Movie   | 
+|Sem mensagem de ok                                       |Delete| Movie   | 
+|Documentação aponta 201, mas requisição apresenta 200    |Delete| Movie   | 
+|Documentação aponta 201, mas requisição apresenta 200    |Put   | Movie   | 
+|Ticket sem id do filme                                   |Post  | Tickets | 
+| Ticket sem id do usuário                                |Post  | Tickets | 
+|Ticket sem id de filme e usuário                         |Post  | Tickets |
+|ao utilizar o Get na rota, a api cai e a requisição falha|Get   | Tickets |
+|ao utilizar o Del na rota, a api cai e a requisição falha|Delete| Tickets |
+|ao utilizar o Put na rota, a api cai e a requisição falha|Put   | Tickets |
+||||
+
    
 
 # Testes de Performance
