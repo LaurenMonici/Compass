@@ -6,6 +6,11 @@ As rotas testadas serão
  - Movies
  - Tickets
 
+# Mapa Mental da API
+
+![image](https://github.com/LaurenMonici/Compass/assets/136503745/144c8262-a85e-4dbd-af16-01b4bb3ca545)
+
+
 # Ambiente de teste
 Uma cópia do ambiente de produção, funcionando apenas em host local para não interferir no banco real, mantendo os dados de amostra.
 
