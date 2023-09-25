@@ -55,7 +55,7 @@ As respostas e resultados devem estar de acordo com o esperado.
 
 |Ferramentas|
 | :-: |
-|Postman|
+|[Postman](https://www.postman.com/downloads/)|
 |Jira|
 |K6|
 |Ec2|
