@@ -10,7 +10,7 @@
 
 # Organização das pastas e sua funções
 ## pasta 1: Data
-    Dentro desta primeira pasta, devem sercriadas 2 sub-pastas, dynamic e static. e como o nome sugere, uma para testes dinâmicos e outra para estáticos.
- - dynamic - pasta onde será criado um arquivo .js, nomeado a sua preferência. Nester arquivo, o código será focado na criação de dados aléatórios em um novo arquivo onde essas informações estarão salvas. tudo isso utilizando o faker.
- - static - pasta onde será criado um arquivo que deve ser alterado manualmente a cada mudança.
+Dentro desta primeira pasta, devem ser criadas 2 sub-pastas, dynamic e static. e como o nome sugere, uma para testes dinâmicos e outra para estáticos.
+ - **dynamic** - pasta onde será criado um arquivo .js, nomeado a sua preferência. Nester arquivo, o código será focado na criação de dados aléatórios em um novo arquivo onde essas informações estarão salvas. tudo isso utilizando o faker.
+ - **static** - pasta onde será criado um arquivo que deve ser alterado manualmente a cada mudança.
 
