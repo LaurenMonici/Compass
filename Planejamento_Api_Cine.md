@@ -1,5 +1,5 @@
 # Objetivo
- - Verificar a funcionalidade correta do sistema, garantindo que usuários possam criar suas ter suas contas, vendo o catálogo de filmes e conseguindo seus tickets
+ - Verificar a funcionalidade correta do sistema, garantindo que usuários possam ver o catálogo de filmes e conseguindo seus tickets
 
 # Escopo:
 As rotas testadas serão
@@ -13,6 +13,7 @@ As rotas testadas serão
 
 # Ambiente de teste
 Uma cópia do ambiente de produção, funcionando apenas em host local para não interferir no banco real, mantendo os dados de amostra.
+Utilização do EC2 para testes com maior carga
 
 # Critérios de aceitação
 
@@ -56,10 +57,10 @@ As respostas e resultados devem estar de acordo com o esperado.
 |Ferramentas|
 | :-: |
 |[Postman](https://www.postman.com/downloads/)|
-|Jira|
-|K6|
+|[Jira](https://www.atlassian.com/software/jira)|
+|[K6](https://k6.io/docs/get-started/installation/)|
 |Ec2|
-|Vs code|
+|[Vs code](https://code.visualstudio.com/download)|
 
 ## Bugs e melhorias
 |Bug ou melhoria|Requisição|Rota|Validação|
