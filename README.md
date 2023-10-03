@@ -1,3 +1,5 @@
+> Agradecimentos: Fábio Eloy Passos, Evilein Castelanelli de Oliveira
+
 # Como Deixar o ambiente praparado para os testes?
  - Iniciando com a instalação dos recursos necessários
    - [Visual Studio Code](https://code.visualstudio.com/download) é um editor de código fonte
