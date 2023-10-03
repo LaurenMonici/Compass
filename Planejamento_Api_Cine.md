@@ -68,8 +68,8 @@ As respostas e resultados devem estar de acordo com o esperado.
 |Sem mensagem de ok                                       |Post  | Movie   | 🟡 |
 |Sem verificação se showtime                              |Post  | Movie   | 🔴 |
 |Sem mensagem de ok                                       |Delete| Movie   | 🟡 |
-|Documentação aponta 201, mas requisição apresenta 200    |Delete| Movie   | 🔴 |
-|Documentação aponta 201, mas requisição apresenta 200    |Put   | Movie   | 🔴 |
+|Documentação aponta 201, mas requisição apresenta 200    |Delete| Movie   | 🟡 |
+|Documentação aponta 201, mas requisição apresenta 200    |Put   | Movie   | 🟡 |
 |Ticket sem id do filme                                   |Post  | Tickets | 🔴 |
 |Ticket sem id do usuário                                 |Post  | Tickets | 🔴 |
 |Ticket sem id de filme e usuário                         |Post  | Tickets | 🔴 |
