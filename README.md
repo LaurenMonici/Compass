@@ -5,7 +5,7 @@
    - [Postman](https://www.postman.com/downloads/) é uma ferramenta de testes
    - [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
    - [EC2](https://aws.amazon.com/pt/ec2/?trk=273714db-4e14-42ba-be75-e3e36c4bc786&sc_channel=ps&ef_id=Cj0KCQjwpc-oBhCGARIsAH6ote8FCqb2BPpzZmZZFXS_43aSGhqQ-3yZzwFYMIGakGMhwIJXSGPcQswaAlpuEALw_wcB:G:s&s_kwcid=AL!4422!3!589890540382!e!!g!!amazon%20ec2!16393914376!135045745338) é uma opção para os testes, mas estes podem acontecer localmente
-   - Arquivos de código estarão disponíveis na branch pb_CodCF
+   - Arquivos de código estarão disponíveis na branch [pb_CodCF](https://github.com/LaurenMonici/Compass/tree/pb_CodCF)
 
 
 # Organização das pastas e sua funções
