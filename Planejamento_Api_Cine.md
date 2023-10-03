@@ -43,9 +43,9 @@ As respostas e resultados devem estar de acordo com o esperado.
 |Criação de Ticket                           | Post  | 1 | 🟢 |
 |Criação de Ticket sem id do filme           | Post  | 1 | 🔴 |
 |Criação de Ticket sem id do usuário         | Post  | 1 | 🔴 |
-|Criação de Ticket sem id do assento         | Post  | 1 | 🟢 |
-|Criação de Ticket sem valor                 | Post  | 1 | 🟢 |
-|Criação de Ticket sem dia e hora de exibição| Post  | 1 | 🟢 |
+|Criação de Ticket sem id do assento         | Post  | 1 | 🔴 |
+|Criação de Ticket sem valor                 | Post  | 1 | 🔴 |
+|Criação de Ticket sem dia e hora de exibição| Post  | 1 | 🔴 |
 |Listar tickets                              | Get   | 1 | 🟢 |
 |Busca de tickets por id                     | Get   | 1 | 🔴 |
 |Deletar tickets                             | Delete| 1 | 🔴 |
